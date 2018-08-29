@@ -62,6 +62,8 @@ function showAb(){
 	$('#hidable_ab').show();
 }
 
+// Juan Vega: Me gusto mucho como se agregan dinámicamente nuevos elementos al DOM y como se despliegan diferentes elementos a partir de los pre-existentes
+// Seria bueno poderse devolver a la primera imagen de la seccion About.
 
 function change() {
 $("#bta").remove();
